@@ -11,3 +11,8 @@ while True:
 
 # pyautogui.hotkey('scrolllock')
 # pyautogui.press('scrolllock')
+
+
+
+
+print("done")
